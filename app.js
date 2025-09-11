@@ -72,7 +72,7 @@ contactForm.addEventListener("submit", async (e) => {
 const projectLinks = {
   "project1-btn": "https://www.figma.com/proto/KrKuAx7b4E96EQgFWgDwtH/Untitled?page-id=0%3A1&node-id=1-1907&starting-point-node-id=1%3A1907&t=CrohoQ6rXzdZakMz-1",  // Replace with your real link
   "project2-btn": "https://www.figma.com/proto/ibukJ2XhGjGIrWv6JZakDE/Gaming-website-ujjwal?page-id=0%3A1&node-id=1-3&viewport=522%2C564%2C0.12&t=FXm1M2EjXfXY3XlX-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A736",  // Replace with your real link
-  "project3-btn": "https://www.figma.com/proto/BvVvT3cASLuTLLzTTI5mLl/paws?page-id=0%3A1&node-id=1-11&p=f&viewport=1118%2C949%2C0.78&t=yq3Q4IxszmfhAbKH-1&scaling=min-zoom&content-scaling=fixed"   // Replace with your real link
+  "project3-btn": "https://www.figma.com/proto/OqFATO6CpQv4tPZUWzs0tF/ujjwal-narrator?page-id=0%3A1&node-id=122-2&p=f&viewport=163%2C738%2C0.16&t=MMMTqjJ20pwJsMN7-1&scaling=min-zoom&content-scaling=fixed"   // Replace with your real link
 };
 
 Object.keys(projectLinks).forEach(id => {
